@@ -50,8 +50,8 @@ Install the npm packages described in the `package.json` and verify that it work
 **Attention Windows Developers:  You must run all of these commands in administrator mode**
 
 ```bash
-npm install
-npm start
+npm install //安装相关包
+npm start //运行服务端
 ```
 
 The `npm start` command first compiles the application, 
